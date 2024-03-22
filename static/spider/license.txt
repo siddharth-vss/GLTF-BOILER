@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spider-man 2099 (Across the Spider-verse)
+* source:	https://sketchfab.com/3d-models/spider-man-2099-across-the-spider-verse-c947a8113b08439981ea3be109bd62b4
+* author:	Djvu (https://sketchfab.com/DjvuOn3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spider-man 2099 (Across the Spider-verse)" (https://sketchfab.com/3d-models/spider-man-2099-across-the-spider-verse-c947a8113b08439981ea3be109bd62b4) by Djvu (https://sketchfab.com/DjvuOn3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
